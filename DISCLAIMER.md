@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-WereChat is experimental, hobby‑grade software developed as a personal pet project. It is not a certified security product, not audited, and not intended for high‑risk or mission‑critical environments. Use it at your own risk under the terms of the GNU General Public License v3.0 (GPLv3).
+WereChat / Волкочат is experimental, hobby‑grade software developed as a personal pet project. It is not a certified security product, not audited, and not intended for high‑risk or mission‑critical environments. Use it at your own risk under the terms of the GNU General Public License v3.0 (GPLv3).
 
 WereChat’s cryptography is designed as a **gate** latch level of protection: it aims to protect against casual snooping and honest people accidentally looking where they should not, not against targeted attacks, state‑level adversaries, or professional incident response teams. Do not rely on WereChat to protect highly sensitive data, ensure anonymity, or bypass any legal, corporate, or regulatory restrictions.
 
