@@ -1,6 +1,6 @@
 # WereChat
 
-WereChat is an email-based chat client: a local, multi-frontend mail client that presents e-mail conversations as chats. It is designed as a pet project and hobby-grade tool, not as a high-security or enterprise messaging solution.
+WereChat / Волкочат is an email-based chat client: a local, multi-frontend mail client that presents e-mail conversations as chats. It is designed as a pet project and hobby-grade tool, not as a high-security or enterprise messaging solution.
 
 Planned frontends include a console client, TUI client, Windows GUI client, Android client, and a local web client talking to a shared core.
 
